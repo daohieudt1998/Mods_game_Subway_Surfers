@@ -1,0 +1,5 @@
+Reserve function:
+Offset = "0x1AE2044" => Coins
+Offset = "0x1AE20AC" => key
+ARM64:
+A0 6C A8 D2 C0 03 5F D6
